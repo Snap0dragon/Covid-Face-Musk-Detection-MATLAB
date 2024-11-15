@@ -1,5 +1,5 @@
 # 😷 Covid Face Mask Detection Using MATLAB
-![Mask Detection](https://github.com/Snap0dragon/Covid-Face-Musk-Detection-MATLAB/assets/86599809/309ea928-9caa-4d3a-bfc4-678d74a9a95f)
+
 ## 📜 **Project Description**
 This project implements a **COVID-19 Face Mask Detection** system using MATLAB. It uses a live webcam feed to detect faces and classify them as either **With Mask** or **Without Mask**. The system employs **AlexNet**, a pre-trained deep learning model, for feature extraction and classification.
 
@@ -42,7 +42,7 @@ This project implements a **COVID-19 Face Mask Detection** system using MATLAB. 
 
 ---
 ## 🎥 **Project Demo**
-
+![Mask Detection](https://github.com/Snap0dragon/Covid-Face-Musk-Detection-MATLAB/assets/86599809/309ea928-9caa-4d3a-bfc4-678d74a9a95f)
 
 ## 🛠️ **How to Use**
 
